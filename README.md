@@ -1,3 +1,4 @@
-# react-hooks-modal
+# Create Modal with React Hooks
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-s5ex2g)
+[Full tutorial: ](https://stackblitz.com/edit/react-s5ex2g)
+[Demo: ](https://stackblitz.com/edit/react-s5ex2g)
